@@ -9,6 +9,11 @@ This is a movie API built using FastAPI.
 3. Mysql-connector-python
 4. Pydantic
 
+**API** has the following features
+* Fastapi
+* Uvicorn
+* Mysql-connector-python
+* Pydantic
 
 <!--
 ```
