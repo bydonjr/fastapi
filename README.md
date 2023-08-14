@@ -10,10 +10,12 @@ This is a movie API built using FastAPI.
 4. Pydantic
 
 **API** has the following features
-* Fastapi
-* Uvicorn
-* Mysql-connector-python
-* Pydantic
+* get all movies
+* get movie by ID
+* get movie by title
+* create movie
+* update movie
+* delete movie
 
 <!--
 ```
