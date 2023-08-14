@@ -14,18 +14,10 @@ iii. Initialize virtual environment
 
 iv. Install all required libraries
 
-1.  ```
-    Fastapi
-    ```
-2.  ```
-    Uvicorn
-    ```
-3.  ```
-    Mysql-connector-python
-    ```
-4.  ```
-    Pydantic
-    ```
+1. Fastapi
+2. Uvicorn
+3. Mysql-connector-python
+4. Pydantic
 
 v. To get it up running, run:
 
